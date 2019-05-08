@@ -52,7 +52,7 @@ insights. There are 3 key ways to do this transformation:
 We can use this methodology for many practical industry applications like
 feature selection to find the correlation between features and clustering.
 
-| [./media/image1.png](./media/image1.png)                          | [./media/image1.png](./media/image1.png)                                     |
+| [./media/image1.png](./media/image1.png)                          | [./media/image2.png](./media/image2.png)                                     |
 |-------------------------------------------------------------------|------------------------------------------------------------------------------|
 | a) Use of Topological Data Analysis in identifying customer churn | b) Use of Topology in identifying the factors influencing Energy consumption |
 
@@ -62,8 +62,8 @@ advertising. Feature selection to correlate energy consumption factors.
 Topological Data Analysis – The rationale
 =========================================
 
-| [./media/image2.png](./media/image2.png) | [./media/image2.png](./media/image2.png) | [./media/image2.png](./media/image2.png) | [./media/image2.png](./media/image2.png) |
-|------------------------------------------|------------------------------------------|------------------------------------------|------------------------------------------|
+| [./media/image3.png](./media/image3.png) |
+|------------------------------------------|
 
 
 Figure 2.Data shape assumptions in traditional machine learning models..
